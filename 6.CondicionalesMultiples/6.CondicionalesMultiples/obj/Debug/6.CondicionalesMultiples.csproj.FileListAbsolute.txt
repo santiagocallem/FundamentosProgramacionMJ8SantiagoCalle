@@ -1,0 +1,2 @@
+C:\Users\B09S104est\Downloads\santiagocalle\FundamentosProgramacionMJ8SantiagoCalle\6.CondicionalesMultiples\6.CondicionalesMultiples\obj\Debug\6.CondicionalesMultiples.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\santiagocalle\FundamentosProgramacionMJ8SantiagoCalle\6.CondicionalesMultiples\6.CondicionalesMultiples\obj\Debug\6.CondicionalesMultiples.csproj.CoreCompileInputs.cache
