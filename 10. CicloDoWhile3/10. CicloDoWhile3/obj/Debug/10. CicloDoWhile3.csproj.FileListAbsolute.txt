@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Downloads\santiagocalle\FundamentosProgramacionMJ8SantiagoCalle\10. CicloDoWhile3\10. CicloDoWhile3\bin\Debug\_10.CicloDoWhile3.exe.config
+C:\Users\B09S104est\Downloads\santiagocalle\FundamentosProgramacionMJ8SantiagoCalle\10. CicloDoWhile3\10. CicloDoWhile3\bin\Debug\_10.CicloDoWhile3.exe
+C:\Users\B09S104est\Downloads\santiagocalle\FundamentosProgramacionMJ8SantiagoCalle\10. CicloDoWhile3\10. CicloDoWhile3\bin\Debug\_10.CicloDoWhile3.pdb
+C:\Users\B09S104est\Downloads\santiagocalle\FundamentosProgramacionMJ8SantiagoCalle\10. CicloDoWhile3\10. CicloDoWhile3\obj\Debug\10. CicloDoWhile3.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Downloads\santiagocalle\FundamentosProgramacionMJ8SantiagoCalle\10. CicloDoWhile3\10. CicloDoWhile3\obj\Debug\10. CicloDoWhile3.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Downloads\santiagocalle\FundamentosProgramacionMJ8SantiagoCalle\10. CicloDoWhile3\10. CicloDoWhile3\obj\Debug\_10.CicloDoWhile3.exe
+C:\Users\B09S104est\Downloads\santiagocalle\FundamentosProgramacionMJ8SantiagoCalle\10. CicloDoWhile3\10. CicloDoWhile3\obj\Debug\_10.CicloDoWhile3.pdb
