@@ -1,0 +1,7 @@
+C:\Users\calle\source\repos\14.TallerCiclos\14.TallerCiclos\obj\Debug\14.TallerCiclos.csproj.AssemblyReference.cache
+C:\Users\calle\source\repos\14.TallerCiclos\14.TallerCiclos\obj\Debug\14.TallerCiclos.csproj.CoreCompileInputs.cache
+C:\Users\calle\source\repos\14.TallerCiclos\14.TallerCiclos\bin\Debug\14.TallerCiclos.exe.config
+C:\Users\calle\source\repos\14.TallerCiclos\14.TallerCiclos\bin\Debug\14.TallerCiclos.exe
+C:\Users\calle\source\repos\14.TallerCiclos\14.TallerCiclos\bin\Debug\14.TallerCiclos.pdb
+C:\Users\calle\source\repos\14.TallerCiclos\14.TallerCiclos\obj\Debug\14.TallerCiclos.exe
+C:\Users\calle\source\repos\14.TallerCiclos\14.TallerCiclos\obj\Debug\14.TallerCiclos.pdb
