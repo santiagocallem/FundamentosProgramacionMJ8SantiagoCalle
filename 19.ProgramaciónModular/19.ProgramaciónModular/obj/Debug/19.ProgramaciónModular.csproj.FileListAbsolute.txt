@@ -1,0 +1,7 @@
+C:\Users\calle\OneDrive\Documentos\repositorio\19.ProgramaciónModular\19.ProgramaciónModular\bin\Debug\19.ProgramaciónModular.exe.config
+C:\Users\calle\OneDrive\Documentos\repositorio\19.ProgramaciónModular\19.ProgramaciónModular\bin\Debug\19.ProgramaciónModular.exe
+C:\Users\calle\OneDrive\Documentos\repositorio\19.ProgramaciónModular\19.ProgramaciónModular\bin\Debug\19.ProgramaciónModular.pdb
+C:\Users\calle\OneDrive\Documentos\repositorio\19.ProgramaciónModular\19.ProgramaciónModular\obj\Debug\19.ProgramaciónModular.csproj.AssemblyReference.cache
+C:\Users\calle\OneDrive\Documentos\repositorio\19.ProgramaciónModular\19.ProgramaciónModular\obj\Debug\19.ProgramaciónModular.csproj.CoreCompileInputs.cache
+C:\Users\calle\OneDrive\Documentos\repositorio\19.ProgramaciónModular\19.ProgramaciónModular\obj\Debug\19.ProgramaciónModular.exe
+C:\Users\calle\OneDrive\Documentos\repositorio\19.ProgramaciónModular\19.ProgramaciónModular\obj\Debug\19.ProgramaciónModular.pdb
